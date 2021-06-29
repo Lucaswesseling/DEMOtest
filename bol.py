@@ -30,6 +30,7 @@ import numpy as np
 # df = df[['Time', 'productSubSubGroup', 'chunkName', 'chunkId', 'qtyOrdered', 'amtOrderedInclVat']]
 # df.to_csv(r"C:\Users\zanm\OneDrive - IRI\bol_data.csv", index=False, header=True)
 
+
 # file_link = r"C:\Users\wesl\OneDrive - IRI\Bol.com\Bol_IRI_link.xlsx"
 # file_Bol = r"C:\Users\wesl\OneDrive - IRI\Bol.com\Bol_data.xlsx"
 # df1 = pd.read_excel(file_link)
@@ -42,3 +43,6 @@ df2 = pd.read_excel(file_Bol)
 
 print (df1)
 print (df2)
+
+#comment niks
+#hallo
